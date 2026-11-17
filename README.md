@@ -25,7 +25,7 @@ The project is currently under development. Some of the functionality planned fo
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
+- JavaScript
 
 ## How It Works
 

@@ -2,6 +2,10 @@
 
 A frontend e-commerce project inspired by Amazon, built using HTML, CSS, and JavaScript. The project focuses on dynamically displaying products and implementing shopping cart functionality using JavaScript.
 
+## Live Demo
+
+[View Amazon E-Commerce Project](https://nikita-yadav-12.github.io/javascript-ecommerce-project/)
+
 ## Features
 
 ### Currently Implemented
